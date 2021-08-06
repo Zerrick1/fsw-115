@@ -1,0 +1,31 @@
+[
+    {
+        "Catagorie": "Burger",
+        "MenuItems": ["Double Cheeseburger", "Double Bacon Cheeseburger"],
+        "Ingediants": ["Cheese", "Lettuce", "Tomato", "Onion", "Pickles", "Bacon"]
+    },
+
+    {
+        "Catagorie": "Pizza",
+        "MenuItems": ["Cheese Pizza", "Pepperoni Pizza"],
+        "Ingediants": ["Cheese", "Pepperoni", "Tomato Sauce"]
+    },
+
+    {
+        "Catagorie": "Sides",
+        "MenuItems": ["Fries", "Onion Rings", "Salad", "Mac and Cheese"],
+        "Ingediants": ["Potatos", "Onions", "Lettuce", "Cheese"]
+    },
+
+    {
+        "Catagorie": "Drinks",
+        "MenuItems": ["Coke", "Sprite", "Pepsi", "Beer"],
+        "Ingediants": ["Surgar", "Alcohol"]
+    },
+
+    {
+        "Catagorie": "Deserts",
+        "MenuItems": ["Ice Cream", "Cookies", "Candy", "Milkshakes"],
+        "Ingediants": ["Surgar", "Chocolate", "Milk"]
+    }
+]
