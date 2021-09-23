@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(38, 27, 190);
+  }
+  h1{
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  #stuff{
+    margin-top: 10px;
+    border: 8px solid rgb(255, 255, 255);
+    background-color: rgb(255, 254, 254);
+    color: rgb(19, 158, 116);
+    border-radius: 50px;
+  text-align: center;
+  }
+  #title{
+   
+   text-decoration: underline;
+    text-align: center;
+  }
+  button{
+    float: right;
+  }
+  #post{
+    float: none;
+  }
